@@ -16,22 +16,18 @@ GitHub Actions is extremely customizable, but there are fundamentals that are im
 ## 🏢 Actions Advanced
 Once you understand the fundamentals, you'll be able to see how GitHub Actions can perform nearly _any_ task in response to _any_ trigger. The possibilities are endless. But to effectively make use of these possibilities, we have to go deeper.
 
-In this section we'll look at ways to work with context-specific information to control workflow behaviour. We'll look at saving artifacts and passing variables around as well as reusability.
-
-[➡️ Go to Actions Advanced Content](4.2-Actions-Advanced/)
+While we won't cover it in this workship, there are comprehensive ways to work with context-specific information to control workflow behaviour. Common techniquest used with Actions include saving artifacts and passing variables around as well as reusability.
 
 ## 🚀 Software Delivery and CI/CD with Actions
 Understanding how to perform tasks with GitHub Actions is one thing, but it's important to be automating the _right_ patterns. In this section we'll talk about how you _should_ use GitHub Actions for your CI/CD workflows.
 
 We'll implement some practical CI/CD, and use Actions for pull request checks.
 
-Note that due to complexities and costs around cloud services, we won't actually be deploying our code (officially). That said, there will be plenty of opportunity to ask questions about how to do your own deployments if you have cloud services configured.
+Note that due to complexities and costs around cloud services, we won't actually be deploying our code. That said, there will be plenty of opportunity to ask questions about how to do your own deployments if you have cloud services configured.
 
-[➡️ Go to Sofware Delivery Content](4.3-Software-Delivery-CICD/)
+[➡️ Go to Sofware Delivery Content](4.2-Software-Delivery-CICD/)
 
 ## 🎪 Non-CI/CD Actions
 GitHub Actions is not just for CI/CD. As we discussed, automations can be configured for any number of triggers, and can perform a limitless set of tasks.
 
-In this section, we'll take a brief look at some scenarios that GitHub Actions can help with.
-
-[➡️ Go to Non-CI/CD Actions Content](4.4-Non-CICD/)
+We won't cover non-CI/CD uses of Actions in this workshop, however common uses include automatically triaging and responding to Issues, sending notifications to third party services in response to GitHub events, and even interacting with the physical world in the form of lights and equipment!

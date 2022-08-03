@@ -1,4 +1,5 @@
 # Exercise 1 - Create an Issue
+
 We're going to create a new issue for some work we want done - updating the background colour of our site to a color other than a dark shade of grey.
 
 1. Navigate to the Issues tab in your repository
@@ -14,11 +15,16 @@ We're going to create a new issue for some work we want done - updating the back
 
 At this point, you have an issue that represents this piece of work. But there are a few more things we can do.
 
-1. Hover over one of the tasks in your task list, and click the ![circular create issue icon](../../images/create-issue.png) icon to the right to convert this task to an issue.
-2. Click the link to the new issue and see that it's being tracked by Issue #1. Click the link to go back to its parent.
-3. Leave a new comment about this issue at the bottom. Use the `@` character to reference someone (maybe your proctor), and the `#` character to reference another issue.
+11. Hover over one of the tasks in your task list, and click the ![circular create issue icon](../../images/create-issue.png) icon to the right to convert this task to an issue.
+12. Click the link to the new issue and see that it's being tracked by Issue #1. Click the link to go back to its parent.
+13. Leave a new comment about this issue at the bottom. Use the `@` character to reference someone (maybe your proctor), and the `#` character to reference another issue.
 
 ![The result of exercise 1](../../images/new-issue.png)
+
+## Create 3 more issues for the following, including any useful details:
+1. Update meta description for social media cards (currently the meta description reads "Some of the best haikus you'll ever read about our rescue dog June")
+2. Add a new Haiku about this workshop (we can use the https://www.poem-generator.org.uk/ site to do the work for us!)
+3. Update the README to describe this project
 
 ## Resources:
 - [GitHub-flavoured Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

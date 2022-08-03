@@ -12,27 +12,19 @@ In a project, you can save views for sprints, backlogs, teams, or releases. You 
 
 ## Setting up Our Views
 
-For our project, we're going to set up three views. One for all work in the repo, a sprint backlog, and finally a personal backlog.
+For our project, we're going to set up two views. One for our product backlog, and a sprint board.
 
-### 👩‍💻 (Guided) Exercise 1
+### 👩‍💻 Exercise 1
 
-[▶️ Create a project](exercise-1.md)
+[▶️ Create a project and backlog](exercise-1.md)
 
 In this exercise, we'll create a project for your repository and show how you can customize it and add your own custom fields.
-
-_This is a guided exercise, so while you're welcome to jump ahead, you can also follow the proctor as they walk you through the process._
 
 ### 👩‍💻 Exercise 2
 
 [▶️ Create a sprint board](exercise-2.md)
 
 In this exercise, you'll create a new view for the current sprint.
-
-### 👩‍💻 Exercise 3
-
-[▶️ Create a personal backlog](exercise-3.md)
-
-In this exercise, you'll create a new view for your personal work. While we'll make suggestions for how it should look, this is your view so customize it in a way that works for you!
 
 ## More features of Projects
 
@@ -46,4 +38,9 @@ At the moment, there are limited workflows you can enable, but soon you'll be ab
 Aside from these workflows, you can use GitHub Actions to automate working with projects. We'll look at this in more detail when we cover Actions.
 
 ### Insights
-Insights for projects is currently in private beta. You can use insights to view and customize charts that use the items added to your project as their source data. The default "Burn up" chart shows item status over time, allowing you to visualize progress and spot patterns over time.
+Insights for projects is currently in private beta*. You can use insights to view and customize charts that use the items added to your project as their source data. The default "Burn up" chart shows item status over time, allowing you to visualize progress and spot patterns over time.
+
+_\* at time of writing_
+
+# Next
+[The Inner Loop &gt;](../../3-The-Inner-Loop/)

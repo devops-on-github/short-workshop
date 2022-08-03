@@ -16,20 +16,17 @@ You're welcome to play and experiment with Codespaces during the workshop, but w
 
 In this section, we'll primarily be running through _guided_ exercises. While Codespaces are easy to configure and use, it's helpful if everyone ends up with similar machines. Don't worry, you'll be on your own by exercise 3!
 
-### 👩‍💻 Guided Exercise 1
+### 👩‍💻 Exercise 1
 
 [▶️ Create a Codespace and debug](exercise-1.md)
 
 In this guided exercise, we'll create a Codespace and explore what it looks like and how it differs from a web-based editor. We'll run and debug our application and do some sharing.
 
-### 👩‍💻 Guided Exercise 2
+## Codespaces customization
 
-[▶️ Customize the dev container](exercise-2.md)
+While we won't cover this in this workshop, Codespaces are extremely customizable. You can customize your machines to run almost any software you need for your local development. You can even run multiple docker containers in the one Codespace, enabling things like database services to run side by side with your coding environment.
 
-In this guided exercise, we'll run through some ways we can customize our Codespace. We'll get our Codespace working for us, then we'll save the customization.
+You can also customize your Codespace to your personal preferences with VS Code settings sync and even dotFiles.
 
-### 👩‍💻 Exercise 3
-
-[▶️ Use a Codespace to do some work](exercise-3.md)
-
-In this exercise, we'll actually do some work using a Codespace! We're going to start from scratch with our new customizations, then pick up an issue and implement it with the help of Copilot!
+# Next
+[Automation &gt;](../4-Automation/)

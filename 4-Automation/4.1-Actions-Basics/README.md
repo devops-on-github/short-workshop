@@ -16,13 +16,11 @@ You can configure a GitHub Actions **workflow** to be triggered when an **event*
 
 GitHub Actions uses YAML syntax to define the workflow. Each workflow is stored as a separate YAML file in your code repository, in a directory named `.github/workflows`. The [workflow syntax definition](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) is _large_ and we won't cover all of it in this workshop (we'd need weeks to do it justice!).
 
-### 👩‍💻 Guided Exercise 1
+### 👩‍💻 Exercise 1
 
 [▶️ Create a workflow](exercise-1.md)
 
 In this guided exercise, we'll create a workflow from a template, watch it run, then examine it in detail.
-
-Note that this exercise is a guided exercise mainly so we can examine what you'll see at various stages and ask questions. There's a lot to GitHub Actions and we want to make sure everyone is on the same page as we go!
 
 ## Runners
 
@@ -54,16 +52,11 @@ Environments are used to describe a general deployment target like production, s
 
 We'll talk about Environments in more detail in the [Sofware Delivery](../4.3-Software-Delivery-CICD/) section.
 
-## Putting it all together
-
-### 👩‍💻 Exercise 2
-
-[▶️ What we've learned so far](exercise-2.md)
-
-Using what we've learned so far, we're going to modify the definition from exercise 1 to perform a multi-phase workflow to try out some of these ideas.
-
 ## Resources:
 - [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 - [GitHub Actions Workflow Syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 - [GitHub-hosted runner definitions](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners#supported-runners-and-hardware-resources)
 - [Encrypted Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
+
+# Next
+[Software Delivery and CI/CD &gt;](../4.2-Software-Delivery-CICD/)

@@ -9,8 +9,6 @@ We all need a way to plan our work, track issues, and talk about the things we b
 ## 🗣️ GitHub Discussions
 [GitHub Discussions](https://resources.github.com/devops/process/planning/discussions/) brings community forums right to your public or private repositories on GitHub making it easy to communicate with your community, ask and answer questions, share updates, and more.
 
-[➡️ Go to GitHub Discussions Content](2.2-Discussions/)
-
 ## 🗓️ Project Tables and Boards
 As teams and projects grow, how we work evolves. Tools that hard-code a specific methodology are too specific and rigid to flex to whatever the moment demands. Often, we find ourselves creating a spreadsheet or pulling out a notepad, just to have the space to think. But then our planning is disconnected from where the work happens and quickly goes stale.
 

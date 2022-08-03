@@ -27,3 +27,4 @@ The advantages of using Codespaces over local development are many. You can stan
 _Fun Fact: GitHub itself uses Codespaces to develop GitHub! New engineers can go from zero to ready to code in about 10 seconds. And that's on an 11GB codebase!_
 
 [➡️ Go to Codespaces content](3.2-Codespaces/)
+

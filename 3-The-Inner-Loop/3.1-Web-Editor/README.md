@@ -20,8 +20,5 @@ In this section, we're going to run through some exercises to show how you can a
 
 In this exercise, we'll make a simple change to a file in our repository. We'll also show how you can link your work to an issue using built-in extensions and work with pull requests.
 
-### 👩‍💻 Exercise 2
-
-[▶️ Submit a pull request to an external repository](exercise-2.md)
-
-In this exercise, we'll open the web-editor for a repository we _don't_ own and see what the experience is like for contributing to other projects.
+# Next
+[Codespaces &gt;](../3.2-Codespaces/)

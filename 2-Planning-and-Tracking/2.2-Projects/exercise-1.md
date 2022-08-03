@@ -1,4 +1,4 @@
-# Exercise 1 - Create a Project
+# Exercise 1 - Create a Project and Backlog
 
 In this exercise, we'll create a project for your repository and show how you can customize it and add your own custom fields.
 

@@ -57,11 +57,11 @@ Proponents value the additional protection a PR process adds to the main branch 
 
 Where your team and organization lie on this spectrum is something you'll have to discover yourself, but if you do use pull requests, there are some practices you can follow to improve efficiency. It's also worth emphasising that PRs should _not_ be the only way you collaborate with your team!
 
-### 👩‍💻 Exercise 2
+### Bonus Exercise
 
-[▶️ Set up a PR check](exercise-2.md)
+This exercise is provided for information, but we won't be doing it during the workshop.
 
-In this exercise, we're going to set up pull requests with some automatic checks. We're also going to protect our main branch so you _must_ use pull requests.
+[Exercise 2](exercise-2.md) walks you through seting up pull requests with some automatic checks, as well as protecting your main branchso you _must_ use pull requests.
 
 ## GitHub Packages as an artifact store
 
@@ -70,3 +70,4 @@ Up to now, we've just used the `actions/upload-artifact` action to save artifact
 [GitHub Packages](https://github.com/features/packages) is a software package hosting service built into GitHub that allows you to host your software packages privately or publicly and use packages as dependencies in your projects. You can easily publish or download packages from Actions with easy authentication.
 
 The [GitHub Packages documentation](https://docs.github.com/en/packages) can teach you how to use it.
+
