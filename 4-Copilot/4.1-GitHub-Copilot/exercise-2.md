@@ -96,11 +96,11 @@ app.get('/status', (req, res) => {
 7. Open the `package.json` file
 8. Add a new entry to the list of dependencies (line 15): 
 ```json
-"syllable": "^1.0.0"
+"syllable": "^5.0.0"
 ```
 8. Once you're finished, debug and navigate to the `/status` page (or whatever equivalent you've produced).
 
-You should see a JSON output with an indication of which Haikus have the correct syllables (which is mostly wrong, but that wasn't the point!)
+You should see a JSON output with an indication of which Haikus have the correct syllables (which might be wrong, but that wasn't the point!)
 
 ## Resources:
 - [GitHub Copilot](https://gh.io/copilot)
