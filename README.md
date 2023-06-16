@@ -27,7 +27,8 @@ There's no need to include every branch.
 - [The Inner Loop](3-The-Inner-Loop/)
   - [Web Editor](3-The-Inner-Loop/3.1-Web-Editor/)
   - [Codespaces](3-The-Inner-Loop/3.2-Codespaces/)
-- [Automation](4-Automation/)
-  - [Actions Basics](4-Automation/4.1-Actions-Basics/)
-  - [Software Delivery and CI/CD with Actions](4-Automation/4.2-Software-Delivery-CICD/)
+- [GitHub Copilot](4-Copilot/4.1-GitHub-Copilot/)
+- [Automation](5-Automation/)
+  - [Actions Basics](5-Automation/5.1-Actions-Basics/)
+  - [Software Delivery and CI/CD with Actions](5-Automation/5.2-Software-Delivery-CICD/)
 - Wrap up

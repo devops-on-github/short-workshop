@@ -6,7 +6,7 @@ We're going to create a new issue for some work we want done - updating the back
 2. Click `New issue`
 3. Type an appropriate title and add some text to the description.
 4. Add an image into the description. You can paste from the clipboard, drag an image file into the browser, or click the bar at the bottom of the text area.
-5. Add a task list using the checkbox icon at the top of the text area . Add two tasks - one to change the background color in the stylesheet, and another to change the border color on the images.
+5. Add a task list using the checkbox icon at the top of the text area. **Add two tasks - one to change the background color in the stylesheet, and another to change the border color on the images.**
 6. Assign yourself in the `Assignees` section on the right
 7. Add an appropriate label in the `Labels` section using the cog icon.
 8. Add this issue to a new Milestone using the cog in the `Milestones` area and typing a new name to create.
@@ -21,10 +21,10 @@ At this point, you have an issue that represents this piece of work. But there a
 
 ![The result of exercise 1](../../images/new-issue.png)
 
-## Create 3 more issues for the following, including any useful details:
-1. Update meta description for social media cards (currently the meta description reads "Some of the best haikus you'll ever read about our rescue dog June")
-2. Add a new Haiku about this workshop (we can use the https://www.poem-generator.org.uk/ site to do the work for us!)
-3. Update the README to describe this project
+## Create 3 more issues for the following pieces of work, including any useful details:
+1. Randomize the haiku order
+2. Update meta description for social media cards (currently the meta description reads "Some of the best haikus you'll ever read about our rescue dog June")
+3. Add a new Haiku about this workshop
 
 ## Resources:
 - [GitHub-flavoured Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

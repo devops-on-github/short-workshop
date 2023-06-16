@@ -47,7 +47,7 @@ In this exercise, we're going to set up a CI/CD pipeline using Environments and 
 
 _Note: Due to the complexity and cost of setting up cloud environments for hosting, we're not actually going to deploy. **However** if you do have cloud environments, proctors may be able to assist you in deploying!_
 
-## Pull Request Checks
+## Pull Request Checks (Optional)
 
 [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) are a sometimes controversial practice. Particularly in small, trusting teams.
 

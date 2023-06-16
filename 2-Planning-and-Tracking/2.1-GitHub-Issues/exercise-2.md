@@ -1,4 +1,4 @@
-# Exercise 2 - Issue Templates and Forms
+# Exercise 2 - Issue Templates and Forms (Optional)
 
 To maintain consistency and ensure we collect all the information we need for issues, GitHub supports Issue Templates and the newer Issue Forms. Both of these simply act as a way to prompt users for the correct information when creating an issue.
 
