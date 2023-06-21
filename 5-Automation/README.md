@@ -11,7 +11,7 @@ In this section we're going to explore GitHub Actions in depth. We'll look at ho
 ## 🛖 Actions Basics
 GitHub Actions is extremely customizable, but there are fundamentals that are important to know. From the structure of a workflow definition to managing secrets, to understanding the way runners work, these fundamentals are where we'll start.
 
-[➡️ Go to Actions Basics Content](4.1-Actions-Basics/)
+[➡️ Go to Actions Basics Content](5.1-Actions-Basics/)
 
 ## 🏢 Actions Advanced
 Once you understand the fundamentals, you'll be able to see how GitHub Actions can perform nearly _any_ task in response to _any_ trigger. The possibilities are endless. But to effectively make use of these possibilities, we have to go deeper.
